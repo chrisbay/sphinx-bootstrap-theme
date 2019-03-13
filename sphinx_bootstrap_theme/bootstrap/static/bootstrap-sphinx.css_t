@@ -201,8 +201,9 @@ table.field-list {
   color: #716b7a;
 }
 
-/*
+
 .bs-sidenav .nav .nav .nav > li > a {
+  display: none;
   padding-top:    3px;
   padding-bottom: 3px;
   padding-left: 30px;
@@ -211,13 +212,14 @@ table.field-list {
 }
 
 .bs-sidenav .nav .nav .nav .nav > li > a {
+  display: none;
   padding-top:    3px;
   padding-bottom: 3px;
   padding-left: 30px;
   font-size: 90%;
   color: #716b7a;
 }
-*/
+
 
 /* Show and affix the side nav when space allows it */
 @media screen and (min-width: 992px) {
