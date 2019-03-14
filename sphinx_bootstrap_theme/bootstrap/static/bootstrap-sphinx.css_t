@@ -176,6 +176,7 @@ table.field-list {
 .bs-sidenav .nav > li > a {
   display: block;
   color: #354a5f;
+  padding: 0px 0px;
 }
 .bs-sidenav .nav > li > a:hover,
 .bs-sidenav .nav > li > a:focus {
