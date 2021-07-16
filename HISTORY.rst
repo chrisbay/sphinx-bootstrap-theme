@@ -3,6 +3,25 @@
 =========
 
 ======
+v0.8.0
+======
+* Upgrade Bootstrap and Bootswatch to v3.4.1. (`@vedranmiletic`_)
+  `#190 <https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/190>`_.
+* Upgrade jQuery to v1.12.4. (`@vedranmiletic`_)
+
+======
+v0.7.1
+======
+* Fix search JavaScript loading.
+  `#194 <https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/194>`_.
+
+======
+v0.7.0
+======
+* Update for ``Sphinx>=2.0.0`` compatibility. (`@larsoner`_)
+  `#193 <https://github.com/ryan-roemer/sphinx-bootstrap-theme/issues/193>`_.
+
+======
 v0.6.5
 ======
 * Fix ``html_sidebars`` in ``Sphinx>=1.7.0``. (`@svenevs`_)
@@ -330,6 +349,7 @@ v0.0.1
 .. _@karelv: https://github.com/karelv
 .. _@kaycebasques: https://github.com/kaycebasques
 .. _@kosiakk: https://github.com/kosiakk
+.. _@larsoner: https://github.com/larsoner
 .. _@masklinn: https://github.com/masklinn
 .. _@mdboom: https://github.com/mdboom
 .. _@MiCHiLU: https://github.com/MiCHiLU
@@ -351,4 +371,6 @@ v0.0.1
 .. _@tristanlins: https://github.com/tristanlins
 .. _@troeger: https://github.com/troeger
 .. _@vkoby: https://github.com/vkoby
+.. _@vedranmiletic: https://github.com/vedranmiletic
 .. _@zyga: https://github.com/zyga
+
